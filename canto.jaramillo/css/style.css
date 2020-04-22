@@ -1,0 +1,56 @@
+/*GENERALES
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  
+  body{
+    font-family: 'Barlow+Condensed', monospace 'Barlow', monospace 'Lato', sans-serif 'Caveat', sans-serif;
+    font-size: 16px;
+  }
+  
+  .contenedor{
+    width: 90%;
+    max-width: 1080px;
+    margin: 0 auto;
+  
+  }
+
+*/
+
+
+body {
+    background-image: url(../assets/background.png);
+
+}
+
+main{
+    background-color: #fbf1e8;
+    padding: 10px 20px 10px 20px;
+    margin: 30px;
+    
+}
+
+.title {
+    color: #495cb0;
+    text-transform: uppercase;
+
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.color-yellow {
+    color: #fac55a;
+
+}
+
+.color-orange {
+    color: #f78470;}
